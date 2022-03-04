@@ -1,0 +1,10 @@
+nodule_modules/
+.gitignore
+.npmignore
+.npmrc
+.travis.yml
+.vscode
+.yarnrc
+.yarnrc.yml
+.yarnignore
+/db
